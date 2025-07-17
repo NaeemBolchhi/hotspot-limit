@@ -68,7 +68,7 @@ echo This script will update the maximum number of devices for your mobile hotsp
 echo.
 
 :GET_INPUT
-echo Set a value higher than 0 and not more than 128.
+echo Set a value greater than 0 but not greater than 128.
 set /p "VALUE_DATA=Desired maximum number of devices: "
 
 :: Input validation: check if input is a number
@@ -82,7 +82,7 @@ for /f "delims=0123456789" %%i in ("%VALUE_DATA%") do (
 :: Check for value greater than 0
 if %VALUE_DATA% leq 0 (
     echo.
-    echo please enter a value greater than 0.
+    echo Please enter a value greater than 0.
     echo.
     goto :GET_INPUT
 )
