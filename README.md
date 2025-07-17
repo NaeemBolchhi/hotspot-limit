@@ -1,7 +1,7 @@
 #   Hotspot Limit Updater
 Increase the default hotspot connected device limit on Windows.
 
-- User a value higher than `0` and not higher than `128`.
+- Enter a value higher than `0` but not higher than `128`.
 
 ##   How to use it?
 
