@@ -41,5 +41,6 @@ That's all.
 
 | **Dev** | **Contribution** |
 |---|---|
-| Antidisestablishmentarianism | https://superuser.com/questions/1419324/how-to-increase-number-of-devices-on-a-mobile-hotspot |
+| Antidisestablishmentarianism | Provided the method that this script is based on. |
+| | https://superuser.com/questions/1419324/how-to-increase-number-of-devices-on-a-mobile-hotspot |
 | @NaeemBolchhi \(Me\) | Made a batch script for ease of use. |
